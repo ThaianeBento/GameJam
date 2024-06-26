@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thaia\\GameJam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|c:\\users\\thaia\\gamejam\\assets\\myassets\\scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|solutionrelative:assets\\myassets\\scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|c:\\users\\thaia\\gamejam\\assets\\myassets\\scripts\\ingame\\jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|solutionrelative:assets\\myassets\\scripts\\ingame\\jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|C:\\Users\\thaia\\GameJam\\assets\\myassets\\scripts\\ui\\globalconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|solutionrelative:assets\\myassets\\scripts\\ui\\globalconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|C:\\Users\\thaia\\GameJam\\assets\\myassets\\scripts\\ui\\endingscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|solutionrelative:assets\\myassets\\scripts\\ui\\endingscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|C:\\Users\\thaia\\GameJam\\assets\\myassets\\scripts\\soundtrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|solutionrelative:assets\\myassets\\scripts\\soundtrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|C:\\Users\\thaia\\GameJam\\assets\\myassets\\scripts\\ui\\controlsoundeffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|solutionrelative:assets\\myassets\\scripts\\ui\\controlsoundeffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|C:\\Users\\thaia\\GameJam\\assets\\myassets\\scripts\\ui\\endgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|solutionrelative:assets\\myassets\\scripts\\ui\\endgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|C:\\Users\\thaia\\GameJam\\assets\\myassets\\scripts\\ui\\win.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|solutionrelative:assets\\myassets\\scripts\\ui\\win.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|C:\\Users\\thaia\\GameJam\\assets\\myassets\\scripts\\ingame\\finalplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|solutionrelative:assets\\myassets\\scripts\\ingame\\finalplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|C:\\Users\\thaia\\GameJam\\assets\\myassets\\scripts\\ingame\\platformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|solutionrelative:assets\\myassets\\scripts\\ingame\\platformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|C:\\Users\\thaia\\GameJam\\assets\\myassets\\scripts\\ui\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|solutionrelative:assets\\myassets\\scripts\\ui\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|C:\\Users\\thaia\\GameJam\\assets\\myassets\\scripts\\levelsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|solutionrelative:assets\\myassets\\scripts\\levelsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|C:\\Users\\thaia\\GameJam\\assets\\myassets\\scripts\\ui\\floorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|Assembly-CSharp.csproj|solutionrelative:assets\\myassets\\scripts\\ui\\floorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jump.cs",
+              "DocumentMoniker": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\InGame\\Jump.cs",
+              "RelativeDocumentMoniker": "Assets\\MyAssets\\Scripts\\InGame\\Jump.cs",
+              "ToolTip": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\InGame\\Jump.cs",
+              "RelativeToolTip": "Assets\\MyAssets\\Scripts\\InGame\\Jump.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwD8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:19:40.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Soundtrack.cs",
+              "DocumentMoniker": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\Soundtrack.cs",
+              "RelativeDocumentMoniker": "Assets\\MyAssets\\Scripts\\Soundtrack.cs",
+              "ToolTip": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\Soundtrack.cs",
+              "RelativeToolTip": "Assets\\MyAssets\\Scripts\\Soundtrack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:06:21.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EndingScene.cs",
+              "DocumentMoniker": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\UI\\EndingScene.cs",
+              "RelativeDocumentMoniker": "Assets\\MyAssets\\Scripts\\UI\\EndingScene.cs",
+              "ToolTip": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\UI\\EndingScene.cs",
+              "RelativeToolTip": "Assets\\MyAssets\\Scripts\\UI\\EndingScene.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:26:33.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EndGame.cs",
+              "DocumentMoniker": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\UI\\EndGame.cs",
+              "RelativeDocumentMoniker": "Assets\\MyAssets\\Scripts\\UI\\EndGame.cs",
+              "ToolTip": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\UI\\EndGame.cs",
+              "RelativeToolTip": "Assets\\MyAssets\\Scripts\\UI\\EndGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:55:18.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlatformController.cs",
+              "DocumentMoniker": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\InGame\\PlatformController.cs",
+              "RelativeDocumentMoniker": "Assets\\MyAssets\\Scripts\\InGame\\PlatformController.cs",
+              "ToolTip": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\InGame\\PlatformController.cs",
+              "RelativeToolTip": "Assets\\MyAssets\\Scripts\\InGame\\PlatformController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:45:46.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Win.cs",
+              "DocumentMoniker": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\UI\\Win.cs",
+              "RelativeDocumentMoniker": "Assets\\MyAssets\\Scripts\\UI\\Win.cs",
+              "ToolTip": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\UI\\Win.cs",
+              "RelativeToolTip": "Assets\\MyAssets\\Scripts\\UI\\Win.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:28:20.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FinalPlatform.cs",
+              "DocumentMoniker": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\InGame\\FinalPlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\MyAssets\\Scripts\\InGame\\FinalPlatform.cs",
+              "ToolTip": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\InGame\\FinalPlatform.cs",
+              "RelativeToolTip": "Assets\\MyAssets\\Scripts\\InGame\\FinalPlatform.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:05:56.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FloorScript.cs",
+              "DocumentMoniker": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\UI\\FloorScript.cs",
+              "RelativeDocumentMoniker": "Assets\\MyAssets\\Scripts\\UI\\FloorScript.cs",
+              "ToolTip": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\UI\\FloorScript.cs",
+              "RelativeToolTip": "Assets\\MyAssets\\Scripts\\UI\\FloorScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:45:22.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameOver.cs",
+              "DocumentMoniker": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\UI\\GameOver.cs",
+              "RelativeDocumentMoniker": "Assets\\MyAssets\\Scripts\\UI\\GameOver.cs",
+              "ToolTip": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\UI\\GameOver.cs",
+              "RelativeToolTip": "Assets\\MyAssets\\Scripts\\UI\\GameOver.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:40:54.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ControlSoundEffects.cs",
+              "DocumentMoniker": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\UI\\ControlSoundEffects.cs",
+              "RelativeDocumentMoniker": "Assets\\MyAssets\\Scripts\\UI\\ControlSoundEffects.cs",
+              "ToolTip": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\UI\\ControlSoundEffects.cs",
+              "RelativeToolTip": "Assets\\MyAssets\\Scripts\\UI\\ControlSoundEffects.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:43:51.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalConfig.cs",
+              "DocumentMoniker": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\UI\\GlobalConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\MyAssets\\Scripts\\UI\\GlobalConfig.cs",
+              "ToolTip": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\UI\\GlobalConfig.cs",
+              "RelativeToolTip": "Assets\\MyAssets\\Scripts\\UI\\GlobalConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:38:24.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\UI\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\MyAssets\\Scripts\\UI\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\UI\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\MyAssets\\Scripts\\UI\\MainMenu.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:16:48.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LevelsManager.cs",
+              "DocumentMoniker": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\LevelsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\MyAssets\\Scripts\\LevelsManager.cs",
+              "ToolTip": "C:\\Users\\thaia\\GameJam\\Assets\\MyAssets\\Scripts\\LevelsManager.cs",
+              "RelativeToolTip": "Assets\\MyAssets\\Scripts\\LevelsManager.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:33:54.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
